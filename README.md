@@ -5,7 +5,7 @@ Restaurant-first DoorDash in the browser. Hides grocery/retail/convenience clutt
 ## Install
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (or Violentmonkey) in Brave/Chrome.
 2. Tampermonkey dashboard → **+** (new script) → paste the contents of `doordash-enhanced.user.js` → save.
-3. Open doordash.com. A red ⚙ button (bottom-right) opens settings; it's also in the Tampermonkey menu.
+3. Open doordash.com. An 'Extended' button (bottom-left) opens settings; it's also in the Tampermonkey menu.
 
 ## Features (all toggleable)
 - Add a **Restaurants** link under Home (URL editable in settings).
